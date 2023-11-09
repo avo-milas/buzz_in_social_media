@@ -1,5 +1,7 @@
 # Buzz in social media
 
+Проект **Buzz in social media** посвящен исследованию предложенного датасета, а также предсказанию MNAD (Mean Number of active discussion) - переменной, описывающей популярность темы из поста.
+
 Датасет содержит примеры buzz events ("шумных событий") из социальной сети - Twitter
 
 - Данные могут быть получены по [ссылке](https://archive.ics.uci.edu/static/public/248/buzz+in+social+media.zip)
