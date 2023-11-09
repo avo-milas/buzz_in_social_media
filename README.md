@@ -1,6 +1,7 @@
 # Buzz in social media
 
 Датасет содержит примеры buzz events ("шумных событий") из социальной сети - Twitter
+
 Данные могут быть получены по [ссылке](https://archive.ics.uci.edu/static/public/248/buzz+in+social+media.zip)
 
 
